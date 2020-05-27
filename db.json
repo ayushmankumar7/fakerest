@@ -1,8 +1,8 @@
 { 
   "state" :[
     {
-      "s": "hello",
-      "id": 1,
+      "text": "hello",
+      "id": 1
     }
   ]
 
